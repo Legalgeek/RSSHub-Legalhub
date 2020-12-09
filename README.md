@@ -1,3 +1,15 @@
+# 基于RSShub的法律专业领域信息订阅引擎
+
+感谢[DIYgod](https://github.com/DIYgod)创造出RSShub这样优秀的开源应用
+
+为我们这个被算法包裹的时代，一片新的绿洲 👍
+
+受RSSHub项目鼓舞，特此开辟一段新领域，在合适的时机，会申请PR
+
+
+## 附带RSSHub项目原文介绍
+-----
+
 <p align="center">
 <img src="https://i.loli.net/2019/04/23/5cbeb7e41414c.png" alt="RSSHub" width="100">
 </p>
